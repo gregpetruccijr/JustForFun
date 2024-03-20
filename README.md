@@ -5,4 +5,4 @@ A line I wrote on my local computer
 
 
 
-[$^\tau$]: Eric Sullivan and Colin Gearty decide the outcome of the "agreement".
+$[^\tau]$: Eric Sullivan and Colin Gearty decide the outcome of the "agreement".
